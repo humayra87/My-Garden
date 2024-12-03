@@ -1,0 +1,68 @@
+ h1 {
+     color: rgb(237, 51, 116);
+     background-color: rgb(135, 240, 55);
+     font-size: 50px;
+     height: 60px;
+     width: 280px;
+     margin: 2pc;
+     border-style: dotted;
+
+ }
+
+ #title {
+     color: rgb(72, 25, 190);
+     font-style: italic;
+ }
+
+ #flower {
+     width: 200px;
+     height: 300px;
+ }
+
+ #box {
+     font-size: 50px;
+     color: chartreuse;
+ }
+
+ #ball {
+     font-style: italic;
+     font-size: 35px;
+     color: brown;
+ }
+
+ h2 {
+     font-size: 30px;
+     color: blue;
+     font-style: italic;
+ }
+
+ .FL th {
+     font-size: 35px;
+     color: red;
+ }
+
+ .FL td {
+     font-size: 25px;
+ }
+
+ table,
+ th,
+ td {
+     border: 2px solid;
+     border-color: blue;
+     text-align: center;
+ }
+
+ .FL {
+     width: 100%;
+ }
+
+ h3 {
+     font-size: 35px;
+     color: darkmagenta;
+     font-style: italic;
+ }
+ p{
+    font-size: 20px;
+    color: rgb(213, 29, 29);
+ }
